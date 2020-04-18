@@ -1,0 +1,23 @@
+[
+    {"id":1,"category":"Tools", "price":9.99},
+    {"id":2,"category":"Tools", "price":9.99},
+    {"id":3,"category":"Tools", "price":9.99},
+    {"id":4,"category":"Tools", "price":9.99},
+    {"id":5,"category":"Tools", "price":9.99},
+    {"id":6,"category":"Tools", "price":9.99},
+
+    {"id":7,"category":"Forks", "price":5},
+    {"id":8,"category":"Forks", "price":5},
+    {"id":9,"category":"Forks", "price":5},
+    {"id":10,"category":"Forks", "price":5},
+    {"id":11,"category":"Forks", "price":5},
+    {"id":12,"category":"Forks", "price":5},
+    {"id":13,"category":"Forks", "price":5},
+    {"id":14,"category":"Forks", "price":5},
+    {"id":15,"category":"Forks", "price":5},
+
+    {"id":16,"category":"Garden", "price": 100},
+    {"id":17,"category":"Garden", "price": 100},
+    {"id":18,"category":"Garden", "price": 100}
+
+]  
